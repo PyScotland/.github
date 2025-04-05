@@ -1,12 +1,8 @@
-## Hi there 👋
 
-<!--
+![PythonScotland-logo.gif](https://raw.githubusercontent.com/PyScotland/pyscotland-org/refs/heads/main/_assets/PythonScotland-logo.gif)
 
-**Here are some ideas to get you started:**
+# Welcome to PyScotland 🐍🏴
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+PyScotland is a community-driven home for Python enthusiasts across Scotland. Whether you're a seasoned developer, a data scientist, a hobbyist, or someone just starting out with Python, PyScotland is here to connect and support you.
+
+Our mission is to bring together Python user groups, meetups, and events throughout the country — from the Highlandsn and Islands, to the Borders — creating a unified space to share knowledge, grow skills, and celebrate all things Python. Think of us as the central hub for Scotland’s vibrant and diverse Python community.
