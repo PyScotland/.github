@@ -1,5 +1,5 @@
 
-![PythonScotland-logo.gif](https://raw.githubusercontent.com/PyScotland/pyscotland-org/refs/heads/main/_assets/PythonScotland-logo.gif)
+![PythonScotland-logo.gif](PythonScotland-logo.gif)
 
 # Welcome to PyScotland 🐍🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
