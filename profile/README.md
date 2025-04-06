@@ -1,5 +1,5 @@
 
-![PythonScotland-logo-fborder.gif](PythonScotland-logo-fborder.gif)
+![PyScotland-logo.gif](PyScotland-logo.gif)
 
 # Welcome to PyScotland 🐍🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
